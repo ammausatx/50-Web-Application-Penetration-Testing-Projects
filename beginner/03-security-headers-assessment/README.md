@@ -42,3 +42,26 @@ A header assessment matrix covering the tested routes and actionable configurati
 
 ## Remediation
 Use framework-supported security headers, a carefully tested CSP, HTTPS with HSTS where appropriate, and consistent configuration across application routes.
+
+
+## Simulated tool screenshots
+
+> These are **simulated tool-interface examples** created for learning. They are not live captures, real scan output, or proof that a vulnerability exists. Values and results are illustrative. Reproduce the workflow in your own authorized lab before reporting a finding.
+
+### Step 1 — Tool setup and initial command
+
+![Simulated Security Headers Assessment tool setup](screenshots/01-tool-setup.svg)
+
+The screen shows the selected tool, the lab target, and the initial command or configuration. Use it as a visual guide when preparing your own test.
+
+### Step 2 — Test execution
+
+![Simulated Security Headers Assessment test execution](screenshots/02-test-execution.svg)
+
+This screen illustrates the request, input, or test action. Compare it with the walkthrough instructions and adjust only within your authorized lab scope.
+
+### Step 3 — Result review
+
+![Simulated Security Headers Assessment result review](screenshots/03-result-review.svg)
+
+This screen illustrates an example result and analyst review. It is not a confirmed finding. Validate actual behavior, preserve your own evidence, and complete the report template.
