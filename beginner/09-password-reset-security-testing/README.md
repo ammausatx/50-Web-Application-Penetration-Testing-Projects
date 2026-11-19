@@ -39,9 +39,7 @@ Record enumeration and token lifecycle behavior; redact reset URLs and tokens
 ## Screenshots and evidence
 The images are simulated training illustrations, not real test evidence. Replace them with your own redacted screenshots after running the authorized lab.
 
-![Simulated test execution](../../_assets/screenshots/test-execution.svg)
 
-![Simulated result review](../../_assets/screenshots/result-review.svg)
 
 Save sanitized request/response examples. Redact credentials, cookies, reset links, tokens, and personal data.
 
@@ -55,3 +53,13 @@ Use the report template in report/report-template.md. Recommend server-side cont
 - [OWASP Web Security Testing Guide](https://owasp.org/www-project-web-security-testing-guide/)
 - [OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/)
 - [PortSwigger Web Security Academy](https://portswigger.net/web-security)
+
+## Project-specific simulated tool screenshots
+
+> The following are fictional training illustrations of the setup, test action, and analyst review. They are not genuine captures, actual scan output, or proof of a vulnerability. Reproduce the workflow in an authorized lab and replace these examples with your own redacted evidence.
+
+![Project 09 tool setup — simulated training illustration](screenshots/01-tool-setup.svg)
+
+![Project 09 test execution — simulated training illustration](screenshots/02-test-execution.svg)
+
+![Project 09 result review — simulated training illustration](screenshots/03-result-review.svg)

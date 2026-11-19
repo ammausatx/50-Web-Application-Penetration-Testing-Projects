@@ -30,9 +30,17 @@ Include the source file, discovered path, observed response, access requirement,
 ## Screenshots
 Simulated illustrations only; replace with your own lab evidence.
 
-![Simulated robots and sitemap test](../../_assets/screenshots/test-execution.svg)
 
-![Simulated resource validation review](../../_assets/screenshots/result-review.svg)
 
 ## Expected output
 A resource discovery report distinguishing ordinary public routes from confirmed information disclosure.
+
+## Project-specific simulated tool screenshots
+
+> The following are fictional training illustrations of the setup, test action, and analyst review. They are not genuine captures, actual scan output, or proof of a vulnerability. Reproduce the workflow in an authorized lab and replace these examples with your own redacted evidence.
+
+![Project 06 tool setup — simulated training illustration](screenshots/01-tool-setup.svg)
+
+![Project 06 test execution — simulated training illustration](screenshots/02-test-execution.svg)
+
+![Project 06 result review — simulated training illustration](screenshots/03-result-review.svg)

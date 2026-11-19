@@ -30,9 +30,17 @@ Save sanitized output and a short validation note for each meaningful result. Do
 ## Screenshots
 The images are simulated training examples. Replace them with your own scan and validation screenshots.
 
-![Simulated directory enumeration execution](../../_assets/screenshots/test-execution.svg)
 
-![Simulated directory enumeration review](../../_assets/screenshots/result-review.svg)
 
 ## Expected output
 An enumeration report listing discovered paths, validation status, and confirmed exposure only.
+
+## Project-specific simulated tool screenshots
+
+> The following are fictional training illustrations of the setup, test action, and analyst review. They are not genuine captures, actual scan output, or proof of a vulnerability. Reproduce the workflow in an authorized lab and replace these examples with your own redacted evidence.
+
+![Project 07 tool setup — simulated training illustration](screenshots/01-tool-setup.svg)
+
+![Project 07 test execution — simulated training illustration](screenshots/02-test-execution.svg)
+
+![Project 07 result review — simulated training illustration](screenshots/03-result-review.svg)

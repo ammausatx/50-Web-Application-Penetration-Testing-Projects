@@ -41,9 +41,17 @@ Record target, certificate details, protocols, ciphers, evidence, impact, and re
 ## Screenshots
 Illustrative training images only; replace with genuine lab output.
 
-![Simulated TLS test execution](../../_assets/screenshots/test-execution.svg)
 
-![Simulated TLS result review](../../_assets/screenshots/result-review.svg)
 
 ## Expected output
 A TLS configuration assessment with certificate evidence and protocol/cipher observations.
+
+## Project-specific simulated tool screenshots
+
+> The following are fictional training illustrations of the setup, test action, and analyst review. They are not genuine captures, actual scan output, or proof of a vulnerability. Reproduce the workflow in an authorized lab and replace these examples with your own redacted evidence.
+
+![Project 05 tool setup — simulated training illustration](screenshots/01-tool-setup.svg)
+
+![Project 05 test execution — simulated training illustration](screenshots/02-test-execution.svg)
+
+![Project 05 result review — simulated training illustration](screenshots/03-result-review.svg)
