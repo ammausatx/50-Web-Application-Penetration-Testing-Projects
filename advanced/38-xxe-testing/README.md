@@ -39,9 +39,7 @@ Document observed access only and recommend hardened parser settings
 ## 5. Screenshots and evidence
 These embedded images are simulated training illustrations, not real test evidence. Replace them with your own redacted captures from the authorized lab.
 
-![Simulated test execution](../../_assets/screenshots/test-execution.svg)
 
-![Simulated result review](../../_assets/screenshots/result-review.svg)
 
 Preserve minimal reproducible requests, responses, timestamps, relevant logs, and test account roles. Redact secrets and personal information. Never publish live tokens, keys, customer records, or internal production details.
 
@@ -57,3 +55,13 @@ Use a consistent finding format: title, severity rationale, affected component, 
 - [PortSwigger Web Security Academy](https://portswigger.net/web-security)
 
 **Safety:** Authorized isolated training environments only. Do not run advanced tests against systems without explicit written permission.
+
+## Project-specific simulated tool screenshots
+
+> Fictional training illustrations of setup, test execution, and analyst review—not genuine captures, actual scan output, or proof of a vulnerability. Reproduce the workflow in an authorized lab and replace these examples with your own redacted evidence.
+
+![Project 38 tool setup — simulated training illustration](screenshots/01-tool-setup.svg)
+
+![Project 38 test execution — simulated training illustration](screenshots/02-test-execution.svg)
+
+![Project 38 result review — simulated training illustration](screenshots/03-result-review.svg)
