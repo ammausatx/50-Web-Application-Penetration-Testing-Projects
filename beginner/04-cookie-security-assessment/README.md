@@ -30,9 +30,7 @@ Create a cookie matrix and explain the purpose and observed value of each attrib
 ## Screenshots
 The embedded images are simulated. Replace them with real lab captures and redact cookie values.
 
-![Simulated cookie test execution](../../_assets/screenshots/test-execution.svg)
 
-![Simulated cookie result review](../../_assets/screenshots/result-review.svg)
 
 ## Expected output
 A cookie security report covering Secure, HttpOnly, SameSite, scope, rotation, expiry, and logout behavior.

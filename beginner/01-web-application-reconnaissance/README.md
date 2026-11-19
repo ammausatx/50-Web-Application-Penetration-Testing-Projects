@@ -43,9 +43,7 @@ Group observations into pages, forms, authentication, APIs, technologies, and po
 ## Evidence and screenshots
 The images are shared simulated illustrations, not actual scan evidence. Replace them with your own redacted lab captures.
 
-![Simulated reconnaissance test execution](../../_assets/screenshots/test-execution.svg)
 
-![Simulated reconnaissance result review](../../_assets/screenshots/result-review.svg)
 
 ## Expected output
 A reconnaissance report with target details, exposed services, technology observations, page and endpoint inventory, and follow-up testing recommendations.

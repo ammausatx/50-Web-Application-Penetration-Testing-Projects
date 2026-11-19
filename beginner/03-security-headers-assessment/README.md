@@ -33,9 +33,7 @@ For each header, record observed value, expected behavior, security purpose, imp
 ## Screenshots
 Illustrative only; replace with real, redacted lab captures.
 
-![Simulated security header test](../../_assets/screenshots/test-execution.svg)
 
-![Simulated security header review](../../_assets/screenshots/result-review.svg)
 
 ## Expected output
 A header assessment matrix covering the tested routes and actionable configuration recommendations.

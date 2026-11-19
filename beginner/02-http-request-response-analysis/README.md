@@ -36,9 +36,7 @@ Create a request/response table with endpoint, method, parameters, status, conte
 ## Screenshots
 These are simulated illustrations. Replace them with your own authorized lab screenshots.
 
-![Simulated HTTP request test execution](../../_assets/screenshots/test-execution.svg)
 
-![Simulated HTTP response review](../../_assets/screenshots/result-review.svg)
 
 ## Expected output
 An HTTP traffic analysis report explaining the application's normal request patterns, response behavior, headers, cookies, and user-controlled parameters.
